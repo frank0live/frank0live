@@ -56,7 +56,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=frank0live&theme=github_dark&hide_border=true" width="400" alt="GitHub Streak" />
-  <img src="https://activity-graph.enzo-alt-f41489.workers.dev/graph?username=frank0live&days=180&theme=github-dark" width="400" alt="Activity Graph" />
+  <img src="https://activity-graph.enzo-alt-f41489.workers.dev/graph?username=frank0live&days=180&theme=github-dark" width="800" alt="Activity Graph" />
 </div>
 
 <div align="center">
