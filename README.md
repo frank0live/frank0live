@@ -34,7 +34,7 @@
 
 <div align="center">
 
-### Stats
+### Activity
 
 <img src="https://github-readme-stats.shion.dev/api?username=frank0live&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&hide=contribs&card_width=800" width="800" alt="GitHub Stats" />
 
@@ -47,8 +47,6 @@
 ***
 
 <div align="center">
-
-### Contributions
 
 <img src="https://raw.githubusercontent.com/frank0live/frank0live/output/snake.svg" width="800" alt="Snake animation" />
 
