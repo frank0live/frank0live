@@ -8,7 +8,7 @@
 
 <a href="https://t.me/master_supports"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="telegram" /></a>
 <a href="https://github.com/frank0live?tab=repositories"><img src="https://img.shields.io/static/v1?message=Repositories&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=frank0live&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" height="25" alt="profile views" />
+<img src="https://activity-graph.enzo-alt-f41489.workers.dev/views?user=frank0live&label=PROFILE%20VIEWS&color=0e75b6" height="25" alt="profile views" />
 
 </div>
 
