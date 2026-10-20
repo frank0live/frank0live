@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=frank0live&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=frank0live&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&hide=contribs&card_width=400" width="400" alt="GitHub Stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs?username=frank0live&layout=compact&langs_count=5&theme=github_dark&hide_border=true" width="350" alt="Top Languages" />
 </div>
 
