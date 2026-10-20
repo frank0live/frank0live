@@ -64,6 +64,10 @@
   <th align="left"><sub>WHAT IT DOES</sub></th>
 </tr>
 <tr>
+  <td width="250"><a href="https://github.com/frank0live/amber-subscription"><b>amber-subscription</b></a><br/><sub><code>HTML</code></sub></td>
+  <td>Amber (کهربا) theme — white-label viewer for 3x-ui/Marzban, one-line nginx/caddy installer, VPN Centers branding</td>
+</tr>
+<tr>
   <td width="250"><a href="https://github.com/frank0live/aurora-subscription"><b>aurora-subscription</b></a><br/><sub><code>HTML</code></sub></td>
   <td>Aurora Glass theme for 3x-UI — 4 languages, live config search, IP/geo card, local QR</td>
 </tr>
@@ -80,20 +84,12 @@
   <td>Minimal subscription page with local QR</td>
 </tr>
 <tr>
-  <td width="250"><a href="https://github.com/frank0live/rexona-panel"><b>rexona-panel</b></a><br/><sub><code>Shell</code></sub></td>
-  <td>Self-hosted control plane for proxy nodes — inbounds, templates, routing, reconnect</td>
-</tr>
-<tr>
   <td width="250"><a href="https://github.com/frank0live/node"><b>node</b></a><br/><sub><code>Python</code></sub></td>
   <td>Data plane — patched &amp; rebranded node build</td>
 </tr>
 <tr>
   <td width="250"><a href="https://github.com/frank0live/cleanprobe"><b>cleanprobe</b></a><br/><sub><code>Python</code></sub></td>
   <td>Minimal TLS endpoint prober — validates VLESS / REALITY links</td>
-</tr>
-<tr>
-  <td width="250"><a href="https://github.com/frank0live/DpiCleaner-scanner"><b>DpiCleaner-scanner</b></a><br/><sub><code>Python</code></sub></td>
-  <td>Finds fast clean IPs for Xray/V2Ray and validates SNI/REALITY targets — GUI + headless CLI</td>
 </tr>
 <tr>
   <td width="250"><a href="https://github.com/frank0live/ops-notes"><b>ops-notes</b></a><br/><sub><code>Markdown</code></sub></td>
@@ -104,22 +100,21 @@
 <br/>
 
 <details>
-<summary><b>All 11 public repositories</b></summary>
+<summary><b>All 10 public repositories</b></summary>
 
 <br/>
 
 | Repository | Lang | Note |
 |:--|:--:|:--|
+| [amber-subscription](https://github.com/frank0live/amber-subscription) | `HTML` | Amber (کهربا) theme — my main viewer —
 | [aurora-subscription](https://github.com/frank0live/aurora-subscription) | `HTML` | 8 stars |
 | [goldfish-subscription](https://github.com/frank0live/goldfish-subscription) | `HTML` | 2 stars |
 | [temperature-sub](https://github.com/frank0live/temperature-sub) | `HTML` | — |
-| [rexona-panel](https://github.com/frank0live/rexona-panel) | `Shell` | 1 star |
 | [cleanprobe](https://github.com/frank0live/cleanprobe) | `Python` | 1 star |
 | [compelex-subscription](https://github.com/frank0live/compelex-subscription) | `JS` | 1 star |
 | [vpncenters3x](https://github.com/frank0live/vpncenters3x) | `HTML` | 1 star |
 | [ultra-tunnel](https://github.com/frank0live/ultra-tunnel) | `Shell` | — |
 | [node](https://github.com/frank0live/node) | `Python` | — |
-| [DpiCleaner-scanner](https://github.com/frank0live/DpiCleaner-scanner) | `Python` | — |
 | [ops-notes](https://github.com/frank0live/ops-notes) | `Markdown` | — |
 
 </details>
