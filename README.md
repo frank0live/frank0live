@@ -57,47 +57,44 @@
 <h3 align="center">What I'm Building</h3>
 
 <table width="100%">
-<colgroup>
-<col width="230"><col width="600">
-</colgroup>
 <tr>
-  <th align="left"><sub>PROJECT</sub></th>
+  <th align="left" width="250"><sub>PROJECT</sub></th>
   <th align="left"><sub>WHAT IT DOES</sub></th>
 </tr>
 <tr>
-  <td><a href="https://github.com/frank0live/aurora-subscription"><b>aurora-subscription</b></a><br/><sub><code>HTML</code></sub></td>
+  <td width="250"><a href="https://github.com/frank0live/aurora-subscription"><b>aurora-subscription</b></a><br/><sub><code>HTML</code></sub></td>
   <td>Aurora Glass theme for 3x-UI — 4 languages, live config search, IP/geo card, local QR</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/frank0live/goldfish-subscription"><b>goldfish-subscription</b></a><br/><sub><code>HTML</code></sub></td>
+  <td width="250"><a href="https://github.com/frank0live/goldfish-subscription"><b>goldfish-subscription</b></a><br/><sub><code>HTML</code></sub></td>
   <td>Goldfish-bowl theme — traffic <i>is</i> the water level, fish moods, low-water renewal nudge, Persian calendar</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/frank0live/compelex-subscription"><b>compelex-subscription</b></a><br/><sub><code>JS</code></sub></td>
+  <td width="250"><a href="https://github.com/frank0live/compelex-subscription"><b>compelex-subscription</b></a><br/><sub><code>JS</code></sub></td>
   <td>Row-Template for 3x-UI — 17 designs, one-line install, white-label, 5 languages</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/frank0live/temperature-sub"><b>temperature-sub</b></a><br/><sub><code>HTML</code></sub></td>
+  <td width="250"><a href="https://github.com/frank0live/temperature-sub"><b>temperature-sub</b></a><br/><sub><code>HTML</code></sub></td>
   <td>Minimal subscription page with local QR</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/frank0live/rexona-panel"><b>rexona-panel</b></a><br/><sub><code>Shell</code></sub></td>
+  <td width="250"><a href="https://github.com/frank0live/rexona-panel"><b>rexona-panel</b></a><br/><sub><code>Shell</code></sub></td>
   <td>Self-hosted control plane for proxy nodes — inbounds, templates, routing, reconnect</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/frank0live/node"><b>node</b></a><br/><sub><code>Python</code></sub></td>
+  <td width="250"><a href="https://github.com/frank0live/node"><b>node</b></a><br/><sub><code>Python</code></sub></td>
   <td>Data plane — patched &amp; rebranded node build</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/frank0live/cleanprobe"><b>cleanprobe</b></a><br/><sub><code>Python</code></sub></td>
+  <td width="250"><a href="https://github.com/frank0live/cleanprobe"><b>cleanprobe</b></a><br/><sub><code>Python</code></sub></td>
   <td>Minimal TLS endpoint prober — validates VLESS / REALITY links</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/frank0live/DpiCleaner-scanner"><b>DpiCleaner-scanner</b></a><br/><sub><code>Python</code></sub></td>
+  <td width="250"><a href="https://github.com/frank0live/DpiCleaner-scanner"><b>DpiCleaner-scanner</b></a><br/><sub><code>Python</code></sub></td>
   <td>Finds fast clean IPs for Xray/V2Ray and validates SNI/REALITY targets — GUI + headless CLI</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/frank0live/ops-notes"><b>ops-notes</b></a><br/><sub><code>Markdown</code></sub></td>
+  <td width="250"><a href="https://github.com/frank0live/ops-notes"><b>ops-notes</b></a><br/><sub><code>Markdown</code></sub></td>
   <td>Server runbooks and field notes</td>
 </tr>
 </table>
