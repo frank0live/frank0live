@@ -65,12 +65,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/frank0live/frank0live/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
 <h3 align="center">What I'm building</h3>
 
 <div align="center">
