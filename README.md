@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" height="34" alt="wave" /> What's Up?</h1>
 
 ###
 
