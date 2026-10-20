@@ -102,7 +102,7 @@
 <br/>
 
 <details>
-<summary><b>&nbsp;▸&nbsp; All 10 public repositories</b></summary>
+<summary><b>All 10 public repositories</b></summary>
 
 <br/>
 
