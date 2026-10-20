@@ -56,37 +56,71 @@
 
 <h3 align="center">What I'm Building</h3>
 
-| <sub>PROJECT</sub> | <sub>LANG</sub> | <sub>WHAT IT DOES</sub> |
-|:--|:--:|:--|
-| **[aurora-subscription](https://github.com/frank0live/aurora-subscription)** | `HTML` | Aurora Glass theme for 3x-UI — 4 languages, live config search, IP/geo card, local QR |
-| **[goldfish-subscription](https://github.com/frank0live/goldfish-subscription)** | `HTML` | Goldfish-bowl theme — traffic *is* the water level, fish moods, low-water renewal nudge, Persian calendar |
-| **[compelex-subscription](https://github.com/frank0live/compelex-subscription)** | `JS` | Row-Template for 3x-UI — 17 designs, one-line install, white-label, 5 languages |
-| **[temperature-sub](https://github.com/frank0live/temperature-sub)** | `HTML` | Minimal subscription page with local QR |
-| **[rexona-panel](https://github.com/frank0live/rexona-panel)** | `Shell` | Self-hosted control plane for proxy nodes — inbounds, templates, routing, reconnect |
-| **[node](https://github.com/frank0live/node)** | `Python` | Data plane — patched &amp; rebranded node build |
-| **[cleanprobe](https://github.com/frank0live/cleanprobe)** | `Python` | Minimal TLS endpoint prober — validates VLESS / REALITY links |
-| **[DpiCleaner-scanner](https://github.com/frank0live/DpiCleaner-scanner)** | `Python` | Finds fast clean IPs for Xray/V2Ray and validates SNI/REALITY targets — GUI + headless CLI |
-| **[ops-notes](https://github.com/frank0live/ops-notes)** | `—` | Server runbooks and field notes |
+<table width="100%">
+<colgroup>
+<col width="230"><col width="600">
+</colgroup>
+<tr>
+  <th align="left"><sub>PROJECT</sub></th>
+  <th align="left"><sub>WHAT IT DOES</sub></th>
+</tr>
+<tr>
+  <td><a href="https://github.com/frank0live/aurora-subscription"><b>aurora-subscription</b></a><br/><sub><code>HTML</code></sub></td>
+  <td>Aurora Glass theme for 3x-UI — 4 languages, live config search, IP/geo card, local QR</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/frank0live/goldfish-subscription"><b>goldfish-subscription</b></a><br/><sub><code>HTML</code></sub></td>
+  <td>Goldfish-bowl theme — traffic <i>is</i> the water level, fish moods, low-water renewal nudge, Persian calendar</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/frank0live/compelex-subscription"><b>compelex-subscription</b></a><br/><sub><code>JS</code></sub></td>
+  <td>Row-Template for 3x-UI — 17 designs, one-line install, white-label, 5 languages</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/frank0live/temperature-sub"><b>temperature-sub</b></a><br/><sub><code>HTML</code></sub></td>
+  <td>Minimal subscription page with local QR</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/frank0live/rexona-panel"><b>rexona-panel</b></a><br/><sub><code>Shell</code></sub></td>
+  <td>Self-hosted control plane for proxy nodes — inbounds, templates, routing, reconnect</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/frank0live/node"><b>node</b></a><br/><sub><code>Python</code></sub></td>
+  <td>Data plane — patched &amp; rebranded node build</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/frank0live/cleanprobe"><b>cleanprobe</b></a><br/><sub><code>Python</code></sub></td>
+  <td>Minimal TLS endpoint prober — validates VLESS / REALITY links</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/frank0live/DpiCleaner-scanner"><b>DpiCleaner-scanner</b></a><br/><sub><code>Python</code></sub></td>
+  <td>Finds fast clean IPs for Xray/V2Ray and validates SNI/REALITY targets — GUI + headless CLI</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/frank0live/ops-notes"><b>ops-notes</b></a><br/><sub><code>Markdown</code></sub></td>
+  <td>Server runbooks and field notes</td>
+</tr>
+</table>
 
 <br/>
 
 <details>
-<summary><b>&nbsp;▸&nbsp; All repositories</b></summary>
+<summary><b>&nbsp;▸&nbsp; All 10 public repositories</b></summary>
 
 <br/>
 
-| <sub>REPO</sub> | <sub>LANG</sub> | <sub>NOTE</sub> |
+| Repository | Lang | Note |
 |:--|:--:|:--|
-| [aurora-subscription](https://github.com/frank0live/aurora-subscription) | `HTML` | ⭐ 8 |
-| [goldfish-subscription](https://github.com/frank0live/goldfish-subscription) | `HTML` | ⭐ 2 |
-| [rexona-panel](https://github.com/frank0live/rexona-panel) | `Shell` | ⭐ 1 |
-| [cleanprobe](https://github.com/frank0live/cleanprobe) | `Python` | ⭐ 1 |
-| [compelex-subscription](https://github.com/frank0live/compelex-subscription) | `JS` | ⭐ 1 |
-| [vpncenters3x](https://github.com/frank0live/vpncenters3x) | `HTML` | ⭐ 1 |
+| [aurora-subscription](https://github.com/frank0live/aurora-subscription) | `HTML` | 8 stars |
+| [goldfish-subscription](https://github.com/frank0live/goldfish-subscription) | `HTML` | 2 stars |
+| [rexona-panel](https://github.com/frank0live/rexona-panel) | `Shell` | 1 star |
+| [cleanprobe](https://github.com/frank0live/cleanprobe) | `Python` | 1 star |
+| [compelex-subscription](https://github.com/frank0live/compelex-subscription) | `JS` | 1 star |
+| [vpncenters3x](https://github.com/frank0live/vpncenters3x) | `HTML` | 1 star |
 | [ultra-tunnel](https://github.com/frank0live/ultra-tunnel) | `Shell` | — |
 | [node](https://github.com/frank0live/node) | `Python` | — |
 | [DpiCleaner-scanner](https://github.com/frank0live/DpiCleaner-scanner) | `Python` | — |
-| [ops-notes](https://github.com/frank0live/ops-notes) | `—` | — |
+| [ops-notes](https://github.com/frank0live/ops-notes) | `Markdown` | — |
 
 </details>
 
