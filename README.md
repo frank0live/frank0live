@@ -102,7 +102,7 @@
 <br/>
 
 <details>
-<summary><b>All 10 public repositories</b></summary>
+<summary><b>All 11 public repositories</b></summary>
 
 <br/>
 
@@ -110,6 +110,7 @@
 |:--|:--:|:--|
 | [aurora-subscription](https://github.com/frank0live/aurora-subscription) | `HTML` | 8 stars |
 | [goldfish-subscription](https://github.com/frank0live/goldfish-subscription) | `HTML` | 2 stars |
+| [temperature-sub](https://github.com/frank0live/temperature-sub) | `HTML` | — |
 | [rexona-panel](https://github.com/frank0live/rexona-panel) | `Shell` | 1 star |
 | [cleanprobe](https://github.com/frank0live/cleanprobe) | `Python` | 1 star |
 | [compelex-subscription](https://github.com/frank0live/compelex-subscription) | `JS` | 1 star |
