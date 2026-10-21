@@ -95,16 +95,12 @@
   <td width="250"><a href="https://github.com/frank0live/cleanprobe"><b>cleanprobe</b></a><br/><sub><code>Python</code></sub></td>
   <td>Minimal TLS endpoint prober — validates VLESS / REALITY links</td>
 </tr>
-<tr>
-  <td width="250"><a href="https://github.com/frank0live/ops-notes"><b>ops-notes</b></a><br/><sub><code>Markdown</code></sub></td>
-  <td>Server runbooks and field notes</td>
-</tr>
 </table>
 
 <br/>
 
 <details>
-<summary><b>All 11 public repositories</b></summary>
+<summary><b>All 10 public repositories</b></summary>
 
 <br/>
 
@@ -120,7 +116,6 @@
 | [vpncenters3x](https://github.com/frank0live/vpncenters3x) | `HTML` | 1 star |
 | [ultra-tunnel](https://github.com/frank0live/ultra-tunnel) | `Shell` | — |
 | [node](https://github.com/frank0live/node) | `Python` | — |
-| [ops-notes](https://github.com/frank0live/ops-notes) | `Markdown` | — |
 
 </details>
 
