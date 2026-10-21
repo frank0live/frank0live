@@ -64,6 +64,10 @@
   <th align="left"><sub>WHAT IT DOES</sub></th>
 </tr>
 <tr>
+  <td width="250"><a href="https://github.com/frank0live/exitmesh"><b>exitmesh</b></a><br/><sub><code>Python</code></sub></td>
+  <td>Multi-exit SOCKS5 fabric — one local port in front of N VLESS/VMess/Trojan/SS exits, health-weighted ranking, sticky sessions, circuit breaker, failover, web panel. Stdlib only, MIT</td>
+</tr>
+<tr>
   <td width="250"><a href="https://github.com/frank0live/nash-tunnel"><b>nash-tunnel</b></a><br/><sub><code>Shell</code> + <code>Python</code></sub></td>
   <td>GRE + FRP + Xray REALITY tunnel manager — one-file installer, web panel, watchdog, auto-failover, benchmark. MIT</td>
 </tr>
@@ -100,12 +104,13 @@
 <br/>
 
 <details>
-<summary><b>All 10 public repositories</b></summary>
+<summary><b>All 11 public repositories</b></summary>
 
 <br/>
 
 | Repository | Lang | Note |
 |:--|:--:|:--|
+| [exitmesh](https://github.com/frank0live/exitmesh) | `Python` | new — multi-exit SOCKS5 fabric + panel |
 | [nash-tunnel](https://github.com/frank0live/nash-tunnel) | `Shell` | 1 star — tunnel manager + web panel |
 | [amber-subscription](https://github.com/frank0live/amber-subscription) | `HTML` | Amber (کهربا) theme — my main viewer —
 | [aurora-subscription](https://github.com/frank0live/aurora-subscription) | `HTML` | 8 stars |
