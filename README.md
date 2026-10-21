@@ -104,7 +104,7 @@
 <br/>
 
 <details>
-<summary><b>All 12 public repositories</b></summary>
+<summary><b>All 11 public repositories</b></summary>
 
 <br/>
 
