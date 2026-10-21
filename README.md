@@ -64,6 +64,10 @@
   <th align="left"><sub>WHAT IT DOES</sub></th>
 </tr>
 <tr>
+  <td width="250"><a href="https://github.com/frank0live/nash-tunnel"><b>nash-tunnel</b></a><br/><sub><code>Shell</code> + <code>Python</code></sub></td>
+  <td>GRE + FRP + Xray REALITY tunnel manager — one-file installer, web panel, watchdog, auto-failover, benchmark. MIT</td>
+</tr>
+<tr>
   <td width="250"><a href="https://github.com/frank0live/amber-subscription"><b>amber-subscription</b></a><br/><sub><code>HTML</code></sub></td>
   <td>Amber (کهربا) theme — white-label viewer for 3x-ui/Marzban, one-line nginx/caddy installer, VPN Centers branding</td>
 </tr>
@@ -100,12 +104,13 @@
 <br/>
 
 <details>
-<summary><b>All 10 public repositories</b></summary>
+<summary><b>All 12 public repositories</b></summary>
 
 <br/>
 
 | Repository | Lang | Note |
 |:--|:--:|:--|
+| [nash-tunnel](https://github.com/frank0live/nash-tunnel) | `Shell` | 1 star — tunnel manager + web panel |
 | [amber-subscription](https://github.com/frank0live/amber-subscription) | `HTML` | Amber (کهربا) theme — my main viewer —
 | [aurora-subscription](https://github.com/frank0live/aurora-subscription) | `HTML` | 8 stars |
 | [goldfish-subscription](https://github.com/frank0live/goldfish-subscription) | `HTML` | 2 stars |
