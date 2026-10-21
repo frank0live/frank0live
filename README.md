@@ -72,6 +72,10 @@
   <td>GRE + FRP + Xray REALITY tunnel manager — one-file installer, web panel, watchdog, auto-failover, benchmark. MIT</td>
 </tr>
 <tr>
+  <td width="250"><a href="https://github.com/frank0live/vanta-sub"><b>vanta-sub</b></a><br/><sub><code>HTML</code> + <code>Python</code></sub></td>
+  <td>VANTA — dark, dependency-free subscription page for any panel (Marzban, PasarGuard, 3x-ui, Hiddify). Remaining-first gauge, live countdown, QR, searchable configs, Persian-first RTL. One HTML file, one JSON file. MIT</td>
+</tr>
+<tr>
   <td width="250"><a href="https://github.com/frank0live/amber-subscription"><b>amber-subscription</b></a><br/><sub><code>HTML</code></sub></td>
   <td>Amber (کهربا) theme — white-label viewer for 3x-ui/Marzban, one-line nginx/caddy installer, VPN Centers branding</td>
 </tr>
@@ -104,12 +108,13 @@
 <br/>
 
 <details>
-<summary><b>All 11 public repositories</b></summary>
+<summary><b>All 12 public repositories</b></summary>
 
 <br/>
 
 | Repository | Lang | Note |
 |:--|:--:|:--|
+| [vanta-sub](https://github.com/frank0live/vanta-sub) | `HTML` | new — dark sub page, zero build step |
 | [exitmesh](https://github.com/frank0live/exitmesh) | `Python` | new — multi-exit SOCKS5 fabric + panel |
 | [nash-tunnel](https://github.com/frank0live/nash-tunnel) | `Shell` | 1 star — tunnel manager + web panel |
 | [amber-subscription](https://github.com/frank0live/amber-subscription) | `HTML` | Amber (کهربا) theme — my main viewer —
